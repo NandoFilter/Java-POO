@@ -1,7 +1,5 @@
 package aula05;
 
-import java.util.Scanner;
-
 public class ContaBanco {
     
         
